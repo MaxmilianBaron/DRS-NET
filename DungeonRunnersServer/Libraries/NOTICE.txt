@@ -1,0 +1,10 @@
+Mono.Data.Sqlite.dll 1.0.61.0
+ADO.NET SQLite provider distributed by the Mono project.
+Assembly copyright: Public Domain.
+https://github.com/mono/mono/tree/main/mcs/class/Mono.Data.Sqlite
+
+sqlite3.dll 3.28.0
+SQLite database engine. Public domain.
+https://www.sqlite.org/copyright.html
+
+NuGet dependencies retain their respective package licenses.
